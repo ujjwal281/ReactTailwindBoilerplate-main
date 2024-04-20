@@ -82,7 +82,7 @@ const PricingPage = () => {
       </div>
 
       <div className='flex mx-10 gap-10 w-screen justify-center items-center px-32'>
-        <div className='p-6'>
+        <div className='flex flex-col p-6'>
           <section>Accepted Payment Method</section>
           <section>
             <Card/>
